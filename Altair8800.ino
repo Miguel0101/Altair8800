@@ -1,3 +1,10 @@
+/*
+Intel 8080 Altair 8800 Emulator
+Copyright © Miguel Magno
+
+Tuesday, April 14, 2020
+*/
+
 extern "C" {
   #include "i8080.h"
 }
